@@ -1,5 +1,5 @@
 <h1 style="text-align: center; font-size: 36px;">👋  Hi , I am Esmaeil Ahmed  ✨<h1><br>
-🔭 I'm a  passionate Flutter & backend developer <br>👯 I’m looking for Opportunities to join collaborative <br>and innovative development teams where I can contribute, <br>learn, and grow<br>🌱 I’m currently  Specializing In:<br>Cloud and Mobile Application Software <br>at the Canadian International College<br>🤝 Let's Connect : https://wa.me/qr/4EUMLH674MBKI1<br>⚡ I am in Love with  Football
+🔭 I'm a  passionate Flutter & backend developer . <br>👯 I’m looking for Opportunities to join collaborative <br>and innovative development teams where I can contribute,learn,and grow <br>🌱 I’m currently  Specializing In:<br>Cloud and Mobile Application Software at the Canadian International College .<br>🤝 Let's Connect : https://wa.me/qr/4EUMLH674MBKI1<br>⚡ I am in Love with  Football
 
 
 ## 🌐 Socials:
