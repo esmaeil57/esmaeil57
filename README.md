@@ -1,5 +1,5 @@
 # 👋 Hi , I am Esmaeil ✨ 
-🔭 I'm a  passionate Flutter & backend developer <br>👯 I’m looking for Opportunities to join collaborative and innovative development teams where I can contribute,<br>learn, and grow .<br>🌱 I’m currently  Specializing In:<br>Cloud and Mobile Application Software at the Canadian International College<br>⚡Fun Fact : I am in Love with  Football .
+🔭 I'm a  passionate Flutter & backend developer <br>👯 I’m looking for Opportunities to join collaborative and innovative development teams where I can contribute,<br>learn, and grow .<br>🌱 I’m currently  Specializing In:<br> Mobile Application Developing <br>⚡Fun Fact : I am in Love with  Football .
 
 
 ## 🌐 Socials:
